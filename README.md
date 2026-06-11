@@ -1,4 +1,4 @@
-<div align="center">
+```md id="0e9tx1"
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Abhiram%20Kaleru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FLLM%20Systems%20%7C%20Backend%20Architecture&descAlignY=58&descSize=18"
@@ -6,10 +6,12 @@
   />
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=6366f1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+fintech+systems;Event-driven+architectures+at+scale;Backend-focused+full+stack+engineer;AI%2FLLM+systems+%26+RAG+pipelines)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+scalable+fintech+systems;Event-driven+architectures+at+scale;Backend-focused+full-stack+engineer;AI%2FLLM+systems+%26+RAG+pipelines"
+  />
+</p>
+```
 
 ---
 
@@ -336,38 +338,6 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 ##  Contribution Snake
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
-
----
-
-##  Current Focus
-
-```yaml
-Learning:
-  - Advanced Kubernetes patterns and cluster optimization
-  - Real-time streaming systems (Kafka, Apache Flink)
-  - LLM fine-tuning and domain-specific model training
-  - GraphQL advanced patterns and federation
-
-Building:
-  - Scalable notification systems with multi-channel delivery
-  - Advanced RAG systems with adaptive retrieval strategies
-  - Real-time data pipelines with Apache Spark
-  - Open-source contributions to fintech tooling
-
-Exploring:
-  - Rust for systems programming and performance-critical services
-  - Temporal distributed workflow orchestration
-  - Advanced caching strategies (consistent hashing, cache-aside patterns)
-  - Production observability and distributed tracing
-
-Open To:
-  - Senior backend engineering roles at scale
-  - Fintech and payment systems architecture
-  - AI/LLM product engineering positions
-  - System design consulting and architecture guidance
-```
-
----
 
 ##  Let's Connect
 
