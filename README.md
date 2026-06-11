@@ -1,4 +1,4 @@
-```md id="0e9tx1"
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Abhiram%20Kaleru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FLLM%20Systems%20%7C%20Backend%20Architecture&descAlignY=58&descSize=18"
@@ -11,7 +11,6 @@
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+scalable+fintech+systems;Event-driven+architectures+at+scale;Backend-focused+full-stack+engineer;AI%2FLLM+systems+%26+RAG+pipelines"
   />
 </p>
-```
 
 ---
 
