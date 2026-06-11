@@ -326,17 +326,6 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 </div>
 
----
-
-##  GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhiramkaleru&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ##  Contribution Activity
 
