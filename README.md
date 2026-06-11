@@ -1,8 +1,8 @@
 <div align="center">
 
-![Abhiram's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=260&section=header&text=Abhiram%20Kaleru&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Backend-Focused%20%7C%20Fintech%20%26%20Distributed%20Systems&descAlignY=51&descAlign=50)
+![Abhiram's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&amp;color=6366f1&amp;height=260&amp;section=header&amp;text=Abhiram%20Kaleru&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Engineer%20%7C%20Backend-Focused%20%7C%20Fintech%20%26%20Distributed%20Systems&amp;descAlignY=51&amp;descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=18&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Building+scalable+fintech+systems;Event-driven+architectures+at+scale;Backend-focused+full+stack+engineer;AI%2FLLM+systems+%26+RAG+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=6366f1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+fintech+systems;Event-driven+architectures+at+scale;Backend-focused+full+stack+engineer;AI%2FLLM+systems+%26+RAG+pipelines)](https://git.io/typing-svg)
 
 </div>
 
