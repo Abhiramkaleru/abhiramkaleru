@@ -216,7 +216,7 @@ Tech Stack: Python • LLM Agents • RAG • Semantic Processing
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **Full Stack Engineer** | Jaisvik Software Solutions (Jaimax)
 **Crypto Fintech** | April 2025 – Present
@@ -267,7 +267,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 🏆 Key Achievements
+##  Key Achievements
 
 | **Recognition** | **Details** |
 |:---|:---|
@@ -284,7 +284,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 ### **Cloud & DevOps**
 ![AWS Certified](https://img.shields.io/badge/Amazon-AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -296,7 +296,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -309,7 +309,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -323,7 +323,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -333,7 +333,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiramkaleru&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a78bfa&area=true&hide_border=true)](https://github.com/Abhiramkaleru)
 
@@ -345,7 +345,7 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 Learning:
@@ -375,7 +375,7 @@ Open To:
 
 ---
 
-## 📞 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
