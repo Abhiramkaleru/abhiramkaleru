@@ -351,10 +351,15 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
+
 <div align="center">
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&text=Building%20Systems%20That%20Scale&fontSize=20&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Building%20Systems%20That%20Scale&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
 
 **"System design is not about perfect architecture—it's about understanding tradeoffs and shipping products that users love at scale."**
 
 </div>
+
+
