@@ -1,6 +1,11 @@
 <div align="center">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Abhiram%20Kaleru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FLLM%20Systems%20%7C%20Backend%20Architecture&descAlignY=58&descSize=18"
+    width="100%"
+  />
+</p>
 
-![Abhiram Banner](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=260&section=header&text=Abhiram%20Kaleru&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Backend-Focused%20%7C%20Fintech%20%26%20Distributed%20Systems&descAlignY=51&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=6366f1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+fintech+systems;Event-driven+architectures+at+scale;Backend-focused+full+stack+engineer;AI%2FLLM+systems+%26+RAG+pipelines)](https://git.io/typing-svg)
 
