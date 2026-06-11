@@ -344,9 +344,9 @@ Designed and shipped College Circle (MERN) and Thrivewell Healthcare (Next.js) f
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
-![GitHub Snake Animation](https://github.com/Abhiramkaleru/Abhiramkaleru/raw/output/github-contribution-grid-snake-dark.svg)
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
 
 ---
 
