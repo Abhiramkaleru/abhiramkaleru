@@ -34,10 +34,10 @@
 
 ## Overview
 
-Backend-focused full-stack engineer with 2.8+ years designing and scaling fintech platforms and distributed systems. Technical expertise across event-driven architectures, high-performance APIs, cloud infrastructure, and AI/LLM systems.
+Backend-focused full-stack engineer with designing and scaling fintech, edutech, healthcare platforms and distributed systems. Technical expertise across event-driven architectures, high-performance APIs, cloud infrastructure, and AI/LLM systems.
 
 **Core Focus:**
-- Fintech systems processing 10,000+ concurrent users and 80,000+ daily events
+- Fintech systems processing 30,000+ concurrent users and 80,000+ daily events
 - Event-driven architectures with BullMQ, Redis, and distributed systems patterns
 - Production RAG pipelines and LLM integrations
 - Zero-downtime AWS deployments and microservices architecture
